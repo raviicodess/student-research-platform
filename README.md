@@ -60,3 +60,11 @@ Ideas, feedback, and future contributions are welcome.
 🎓 Built by students, for students.
 
 Student Research Alliance — Making research more accessible.
+📸 Early Development
+
+Here are some screenshots from the early development of Student Research Alliance (SRA). These previews show the initial direction and design of the platform as development continues toward the planned 2027 release.
+<img width="1912" height="1012" alt="image" src="https://github.com/user-attachments/assets/4fd3cb5c-796c-4f04-9d96-682d0384900e" />
+<img width="1920" height="1000" alt="image" src="https://github.com/user-attachments/assets/6b65c269-b885-4af9-8289-20ad7f4221d4" />
+<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/62b0c52f-90d5-4abf-b9ae-559a124349bc" />
+
+
