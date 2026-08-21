@@ -57,7 +57,7 @@ Ideas, feedback, and future contributions are welcome.
 
 ---
 
-🎓 Built by students, for students.
+🎓 Built by students, for students... 
 
 Student Research Alliance — Making research more accessible.
 📸 Early Development
